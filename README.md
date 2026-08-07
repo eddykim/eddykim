@@ -9,17 +9,6 @@ I'm an optical engineer/researcher working on **thin-film metrology and computat
 - B.Sc. (Hons), Manufacturing Systems and Design Engineering — Northumbria University / Seoul National University of Science and Technology (dual degree)
 - 8 years designing and building optical metrology instruments — spectroscopic ellipsometry, Mueller-matrix polarimetry, AI-assisted metrology, spectroscopic reflectometry — spanning hardware, optical design, and analysis software
 
-## 📄 Publications
-
-- Y. Kim, H. Pahk, "Snapshot angle-resolved channeled spectroscopic micro-ellipsometry for thin-film characterization," *Applied Optics* (2025) — first author
-- S. Lee, Y. Kim, H. Pahk, "Compact Mueller matrix micro-ellipsometer with structured light and channeled spectral detection," *Applied Optics* (under review, 2026) — co-author
-
-## 💡 Patents (KR)
-
-- **10-2953071** — Incidence-Angle Spectroscopic Micro-Ellipsometer Using a Line-Scan Spectrometer and Multi-Order Retarder (granted 2026)
-- **10-2773077** — Multi-Wavelength Back-Focal-Plane Data Analysis Method and Device Using Artificial Neural Networks (granted 2025)
-- **10-2025-0020377** — Coaxial Spectroscopic Angle-Resolved Mueller Matrix Ellipsometer Using Structured Light (pending)
-
 ## 🌱 Focus areas
 
 - **Thin-film & surface metrology** — spectroscopic reflectometry, ellipsometry (rotating-compensator, Mueller-matrix, channeled / snapshot)
