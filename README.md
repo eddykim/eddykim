@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ed (Youngjoon Kim)</h1>
+<h1 align="center">Hi 👋, I'm Youngjoon Kim (Eddy)</h1>
 
 I'm an optical engineer/researcher working on **thin-film metrology and computational optics** — building custom instruments and the algorithms that make them work, from the optical bench to the fitting code.
 
@@ -29,7 +29,7 @@ More project repos are on the way as I prepare them for public release — pinne
 
 ## 📫 Contacts
 
-- Email: [yjedward.kim@gmail.com](mailto:yjedward.kim@gmail.com)
+- Email: [yjedward.kim@gmail.com](mailto:eddyoptics@gmail.com)
 - LinkedIn: [Link](https://www.linkedin.com/in/youngjoon-kim-ed/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eddykim&show_icons=true&theme=default)
