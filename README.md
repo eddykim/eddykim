@@ -30,7 +30,7 @@ More project repos are on the way as I prepare them for public release — pinne
 ## 📫 Contacts
 
 - Email: [eddyoptics@gmail.com](mailto:eddyoptics@gmail.com)
-- LinkedIn: [Link](https://www.linkedin.com/in/youngjoon-kim-ed/)
+- LinkedIn: [in/youngjoon-kim-ed](https://www.linkedin.com/in/youngjoon-kim-ed/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=eddykim&show_icons=true&theme=default)
 
